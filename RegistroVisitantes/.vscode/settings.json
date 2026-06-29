@@ -1,0 +1,7 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.referencedLibraries": [
+        "/Users/anthony/Desktop/Ucne/javafx24/lib/*.jar",
+        "/Users/apple/Desktop/JavaFX/**/*.jar"
+    ]
+}
